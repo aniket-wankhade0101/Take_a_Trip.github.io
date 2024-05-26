@@ -1,0 +1,33 @@
+.nav-bar {
+    /* border: 1px solid red; */
+    font-size: 20px;
+    /* background-color: #485C73 !important; */
+  
+
+}
+
+.brand {
+    color: rgb(233, 130, 20) !important;
+    font-family: 'Lobster', sans-serif !important;
+    font-family: 'Merienda', cursive !important;
+    background-color: #fff;
+    border-radius: 10px;
+    height: auto;
+    width: 130px;
+    text-align: center;
+}
+
+.brand:hover{
+    background-color:  rgb(233, 130, 20)  ;
+    color: #fff !important;
+}
+
+.nav-link{
+    color:#306872;
+ font-weight: bold;   
+}
+
+.nav-link:hover{
+    color: #5a8a1c;
+   
+}
